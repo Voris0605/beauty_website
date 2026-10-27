@@ -146,3 +146,103 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: grey;
 }
+.section3{
+    width: 1367px;
+    height: 871px;
+}
+.text13{
+    width: 158px;
+    height: 54px;
+    margin-top: 160px;
+    margin-left: 650px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+.text14{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;   
+}
+.card1{
+    width: 359px;
+    height: 359px;
+    margin-top: 150px;
+    margin-left: 123px;
+    box-shadow: 0px 4px 0px #69B99D;
+    border: 2px solid black
+}
+.image6{
+    width: 80;
+    height: 80;
+    margin-top: 10px;
+    margin-left: 140px;
+}
+.text15{
+    text-align: center;
+    margin-top: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.text16{
+    text-align: center;
+    margin-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:15px;
+    color: grey;
+}
+.card2{
+    width: 359px;
+    height: 359px;
+    margin-top: -362px;
+    margin-left: 43%;
+    box-shadow: 0px 4px 0px #69B99D;
+    border: 2px solid black
+}
+.image7{
+    width: 80;
+    height: 80;
+    margin-top: 10px;
+    margin-left: 140px;
+}
+.text17{
+    text-align: center;
+    margin-top: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.text18{
+    text-align: center;
+    margin-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:15px;
+    color: grey;
+}
+.card3{
+    width: 359px;
+    height: 359px;
+    margin-top: -362px;
+    margin-left: 76%;
+    box-shadow: 0px 4px 0px #69B99D;
+    border: 2px solid black
+}
+.image8{
+    width: 80;
+    height: 80;
+    margin-top: 10px;
+    margin-left: 140px;
+}
+.text19{
+    text-align: center;
+    margin-top: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.text20{
+    text-align: center;
+    margin-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:15px;
+    color: grey;
+}
