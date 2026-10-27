@@ -368,3 +368,22 @@
     margin-top: -500px;
     margin-left: 800px;
 }
+.footer{
+    max-width: 1800px;
+    height: 237px;
+    background-color: #69B99D;
+}
+
+
+
+
+
+@media(max-width: 500px){
+    .fa-bars{
+        display: block !important;
+        font-size: 20px;
+    }
+    .nav{
+        display: none;
+    }
+}
